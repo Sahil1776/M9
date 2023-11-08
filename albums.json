@@ -1,0 +1,38 @@
+[
+    {
+        "album_title": "Get Lifted",
+        "artist_name": "John Legend",
+        "songs": [
+            "Number 1",
+            "Live It Up",
+            "I Can Change",
+            "Ordinary People",
+            "Used to Love U"
+        ],
+        "release_year": 2004
+    },
+    {
+        "album_title": "1989",
+        "artist_name": "Taylor Swift",
+        "songs": [
+            "All You Had to Do Was Stay",
+            "I Know Places",
+            "I Wish You Would",
+            "This Love",
+            "Welcome To New York"
+        ],
+        "release_year": 2014
+    },
+    {
+        "album_title": "The World We Knew",
+        "artist_name": "Frank Sinatra",
+        "songs": [
+            "Somethin' Stupid",
+            "This Is My Love",
+            "This Town",
+            "Don't Sleep In The Subway",
+            "Drinking Again"
+        ],
+        "release_year": 1967
+    }
+]
